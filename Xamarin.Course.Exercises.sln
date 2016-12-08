@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiAttributeRouting", "W
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiFiltersAndHandlers", "WebApiFiltersAndHandlers\WebApiFiltersAndHandlers.csproj", "{10DE3C7E-69AD-4994-B806-51E3A295A260}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiVersionCheckAssignment", "WebApiVersionCheckAssignment\WebApiVersionCheckAssignment.csproj", "{189E782D-F01C-4791-ACE6-239FA655D435}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{10DE3C7E-69AD-4994-B806-51E3A295A260}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10DE3C7E-69AD-4994-B806-51E3A295A260}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10DE3C7E-69AD-4994-B806-51E3A295A260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{189E782D-F01C-4791-ACE6-239FA655D435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{189E782D-F01C-4791-ACE6-239FA655D435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{189E782D-F01C-4791-ACE6-239FA655D435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{189E782D-F01C-4791-ACE6-239FA655D435}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
